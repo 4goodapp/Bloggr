@@ -1,0 +1,1 @@
+Playing around with ember.js. This is based on the sample video creating the Bloggr app.
